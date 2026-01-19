@@ -38,17 +38,10 @@
 ## 🛠️ Technical Skills
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,js,java,kotlin" alt="Languages" />
 
 ### Cloud & Infrastructure
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,kubernetes,terraform,docker" alt="Cloud & Infrastructure" />
 
 ### Frameworks & Tools
 - **Frameworks:** Laravel、Spring Boot、Quarkus
@@ -64,9 +57,13 @@
 
 <div align="center">
 
-[![Google Cloud Certification 1](https://images.credly.com/size/340x340/images/0f3e3a5d-4c9d-4b2b-9c9b-3c1d0db2e3d5/image.png)](https://www.credly.com/badges/2cacc7f0-5b45-44d8-b166-3fed1ed31dea)
+<a href="https://www.credly.com/badges/2cacc7f0-5b45-44d8-b166-3fed1ed31dea">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Certification 1" style="width: 100px; height: 100px; margin: 10px;" />
+</a>
 
-[![Google Cloud Certification 2](https://images.credly.com/size/340x340/images/0f3e3a5d-4c9d-4b2b-9c9b-3c1d0db2e3d5/image.png)](https://www.credly.com/badges/d87e2a90-7530-43e5-b34e-fcb6a9c2bff1)
+<a href="https://www.credly.com/badges/d87e2a90-7530-43e5-b34e-fcb6a9c2bff1">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Certification 2" style="width: 100px; height: 100px; margin: 10px;" />
+</a>
 
 </div>
 
