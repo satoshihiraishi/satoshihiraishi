@@ -58,11 +58,11 @@
 <div align="center">
 
 <a href="https://www.credly.com/badges/2cacc7f0-5b45-44d8-b166-3fed1ed31dea">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Certification 1" style="width: 100px; height: 100px; margin: 10px;" />
+  <img src="images/professional-cloud-architect.png" alt="Professional Cloud Architect" style="width: 150px; margin: 10px;" />
 </a>
 
 <a href="https://www.credly.com/badges/d87e2a90-7530-43e5-b34e-fcb6a9c2bff1">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Certification 2" style="width: 100px; height: 100px; margin: 10px;" />
+  <img src="images/professional-cloud-devops-engineer.png" alt="Professional Cloud DevOps Engineer" style="width: 150px; margin: 10px;" />
 </a>
 
 </div>
